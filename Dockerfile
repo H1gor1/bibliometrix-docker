@@ -12,4 +12,4 @@ WORKDIR /usr/local/src/app
 
 EXPOSE 3838
 
-CMD ["R", "-e", "bibliometrix::biblioshiny()"]
+CMD ["R", "-e", "bibliometrix::biblioshiny(port=3838)"]
