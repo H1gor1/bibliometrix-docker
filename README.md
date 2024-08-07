@@ -15,8 +15,8 @@ Siga as instruções abaixo para construir e rodar a imagem Docker.
 Primeiro, clone este repositório para sua máquina local.
 
 ```bash
-git clone https://github.com/seu-usuario/dockerized-bibliometrix.git
-cd dockerized-bibliometrix
+git clone https://github.com/H1gor1/bibliometrix-docker.git
+cd bibliometrix-docker
 ```
 ### Passo 2: Construir a Imagem Docker
 
